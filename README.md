@@ -4,7 +4,7 @@ Hi 👋 I'm Leonardo
 Web Developer
 --------------------
 
-I started learning code around 2019 in college. Now I work on some big projects using many different languages and love interacting with every types of projects.
+I started learning code around 2019 in college. Now I work on various projects using many different languages and love interacting with every types of projects.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [l.conrado10@gmail.com](mailto:l.conrado10@gmail.com)
